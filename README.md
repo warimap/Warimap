@@ -3,7 +3,7 @@
   <div id="badges" align="center">
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif" width="700" height="300"/>
+  <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="700" height="300"/>
 </div>
 </div>
 <h3 align="center">I am an Enthusiastic Tech Learner, An engineering student</h3>
