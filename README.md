@@ -3,7 +3,8 @@
   <div id="badges" align="center">
 </div>
 <div align="center">
- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<img align="center" alt="GIF" height="100%" width="100%" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"/>
+ 
 </div>
 </div>
 <h3 align="center">I am an Enthusiastic Tech Learner, An engineering student</h3>
