@@ -12,7 +12,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 
 ## About
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/2xnO6tTIYYFE2j3IqQ/giphy.gif"/>
 🔭 I’m currently undertaking software engineering course with ALX.<br/>
 💬 Mastering the skills of Agile Software Craftmanship.<br/>
 ⚡ Future Goals: Contribute more to the community and learn more about new technologies that arise.
