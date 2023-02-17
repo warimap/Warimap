@@ -2,9 +2,8 @@
 <div id="header" align="center">
   <div id="badges" align="center">
 </div>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 <div align="center">
-<img align="center" alt="GIF" height="100%" width="100%" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"/>
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
  
 </div>
 </div>
@@ -27,6 +26,7 @@
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;">
 <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
+<img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
 <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
 <img align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
