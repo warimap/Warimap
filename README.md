@@ -26,7 +26,7 @@
 
 
 ## My Skills 
-## 🛠️ Tech Stack
+
 ## 🛠️ Tech Stack
 
 #### **Languages**
