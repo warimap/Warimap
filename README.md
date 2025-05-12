@@ -45,7 +45,7 @@
 
 ## 📌 Featured Projects
 
-- [Maze Solver](https://github.com/warimap/warimap/edit/main/README.md): A Python-based pathfinding visualizer using search algorithms.
+- [Maze Solver](https://github.com/warimap/Maze_project): A Python-based pathfinding visualizer using search algorithms.
 - [Hair Booking App](https://github.com/warimap/hair-booking): An appointment booking system tailored for hair stylists and clients.
 - [Web Stack Portfolio](https://github.com/warimap/webstack-portfolio): Full-stack projects from the ALX SE program covering backend, APIs, and frontend work.
 
