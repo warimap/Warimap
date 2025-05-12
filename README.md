@@ -13,9 +13,13 @@
 
 ## About
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/2xnO6tTIYYFE2j3IqQ/giphy.gif"/>
-🔭 I’m currently undertaking software engineering course with ALX.<br/>
-💬 Mastering the skills of Agile Software Craftmanship.<br/>
-⚡ Future Goals: Contribute more to the community and learn more about new technologies that arise.
+# Hi there, I'm Faith Warima Ng'endo 👋
+
+🌍 Based in Kiambu, Kenya  
+🎓 ALX Software Engineering Graduate  
+📚 Completed all W3Schools courses  
+💡 Passionate about clean code, user-friendly design, and continuous learning  
+💼 Open to freelance work, internships, and junior developer roles
 
 📫 How to reach me **wpharium@gmail.com**
 
