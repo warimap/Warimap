@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My Name is Pharium Warima Ng'endo</h1>
+<h1 align="center">Hi 👋, My Name is Faith Warima Ng'endo</h1>
 <div id="header" align="center">
   <div id="badges" align="center">
 </div>
