@@ -12,8 +12,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 
 ## About
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/2xnO6tTIYYFE2j3IqQ/giphy.gif"/>
 ## Hi there, I'm Faith Warima Ng'endo 👋
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/2xnO6tTIYYFE2j3IqQ/giphy.gif"/>
+
 
 🌍 Based in Kiambu, Kenya  
 🎓 ALX Software Engineering Graduate  
